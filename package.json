@@ -1,7 +1,7 @@
 {
   "name": "agsjs",
   "version": "4.0.1",
-  "author": "lecheshirecat <contact@pixeliste.fr>",
+  "author": "CAL <contact@pixeliste.fr>",
   "license": "MIT",
   "description": "A modern and lightweight AGS file parser for JavaScript with TypeScript support",
   "source": "src/index.ts",
@@ -41,6 +41,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/lecheshirecat/agsjs.git"
+    "url": "https://github.com/lepixeliste/agsjs.git"
   }
 }
